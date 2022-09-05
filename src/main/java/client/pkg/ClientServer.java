@@ -1,4 +1,4 @@
-package io.tntra.networksocketdemo.client.pkg;
+package client.pkg;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
